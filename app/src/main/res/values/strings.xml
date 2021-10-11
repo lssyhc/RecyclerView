@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerView_Cahyo_06</string>
+    <string name="nama_makanan">nama makanan</string>
+    <string name="description">deskripsi makanan</string>
+</resources>
